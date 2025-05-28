@@ -1,5 +1,5 @@
 E-Commerce MERN project
-
+Almost all kind of functionalities are added to this project for an ecommerce backend. All API and project details are added here.
 
 3. Create Express server
 4. HTTP requests and response
